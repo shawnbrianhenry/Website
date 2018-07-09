@@ -1,5 +1,7 @@
 body {
-  background-image: url("henrypixel.jpg");
+  background-color: lightgreen;
+  /* background-image: url("/img/henrypixel.jpg"); */
+  /* background-image: image("img/henrypixel.jpg");
   /* background-size: 70%;
   background-width: 200%;
   image-opacity: .02; */
@@ -10,8 +12,8 @@ body {
   color: black;
 }
 
-img url {
-  opacity: .2;
+/* img url {
+  opacity: .2; */
 }
 
 li {
