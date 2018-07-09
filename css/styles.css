@@ -1,8 +1,8 @@
 body {
-  background-image: url("/henrypixel.jpg");
-  background-size: 70%;
+  background-image: url("henrypixel.jpg");
+  /* background-size: 70%;
   background-width: 200%;
-  image-opacity: .02;
+  image-opacity: .02; */
 }
 
 .jumbotron {
