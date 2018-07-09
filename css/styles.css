@@ -5,6 +5,11 @@ body {
   image-opacity: .02;
 }
 
+.jumbotron {
+  background-color: : #5b82c1;
+  color: black;
+}
+
 img url {
   opacity: .2;
 }
