@@ -12,12 +12,18 @@ body {
   color: black;
 }
 
-/* img url {
-  opacity: .2; */
+.carousel-inner img {
+  margin: auto;
 }
 
 li {
   color: white;
+}
+
+.photographyFour {
+  align-items: center;
+  align-content: center;
+  align-self: center;
 }
 
 h1 {
@@ -42,5 +48,6 @@ p {
 }
 
 div.serv {
-  background-image: url("https://01iajxoiw1-flywheel.netdna-ssl.com/wp-content/uploads/2017/04/black-labs-puppies-1024x564-40kb.jpg");
+  background-color: darkred;
+  /* background-image: url("https://01iajxoiw1-flywheel.netdna-ssl.com/wp-content/uploads/2017/04/black-labs-puppies-1024x564-40kb.jpg"); */
 }
