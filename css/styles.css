@@ -1,35 +1,61 @@
 body {
-  background-color: lightgreen;
-  /* background-image: url("/img/henrypixel.jpg"); */
-  /* background-image: image("img/henrypixel.jpg");
-  /* background-size: 70%;
-  background-width: 200%;
-  image-opacity: .02; */
+  background-color: #abb7cc;
+  font-family: sans-serif;
+  font: Verdana;
+}
+.paragraphBrian {
+  color: blue;
+  font-family: sans-serif;
+  font: Verdana;
+  font-size: 12pt;
+  background-color: #abb7cc;
+}
+
+.container {
+  background-color: #bec9db;
 }
 
 .jumbotron {
   background-color: : #5b82c1;
   color: black;
+  font-family: sans-serif;
+  font: Verdana;
 }
 
 .carousel-inner img {
   margin: auto;
 }
 
+.bu {
+  background-color: teal;
+  font-family: sans-serif;
+  font: Verdana;
+}
+
+.shawnHenry {
+  background-image: url("https://images.pexels.com/photos/413195/pexels-photo-413195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350");
+}
+
 li {
   color: white;
+  font-family: sans-serif;
+  font: Verdana;
 }
 
 .photographyFour {
   align-items: center;
   align-content: center;
   align-self: center;
+  font-family: sans-serif;
+  font: Verdana;
 }
 
 h1 {
   text-align: center;
   color: white;
-  /* font-family: sans-serif;
+  font-family: sans-serif;
+  font: Verdana;
+  font-family: sans-serif;
   font-size: 30px;
   font-style: oblique;
   color: #40454c;
@@ -40,14 +66,20 @@ h1 {
   background-color: #f1f1f1;
   height: 100%
   position: fixed;
-  overflow: auto; */
+  overflow: auto;
 }
 
 p {
   color: black;
+  font-family: sans-serif;
+  font: Verdana;
 }
 
 div.serv {
-  background-color: darkred;
-  /* background-image: url("https://01iajxoiw1-flywheel.netdna-ssl.com/wp-content/uploads/2017/04/black-labs-puppies-1024x564-40kb.jpg"); */
-}
+  /* background-color: darkgreen; */
+  color: white;
+  font-family: sans-serif;
+  font: Verdana;
+   background-image: url("https://images.pexels.com/photos/413195/pexels-photo-413195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350"); */
+   background-image: url("https://01iajxoiw1-flywheel.netdna-ssl.com/wp-content/uploads/2017/04/black-labs-puppies-1024x564-40kb.jpg"); */
+ }
